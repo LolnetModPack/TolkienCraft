@@ -1,0 +1,120 @@
+Permission categories and full licenses for mods marked spreadsheet are available here: http://1drv.ms/1rsQNOJ
+For any problems, please contact Watchful11 on the FTB forums.
+This is a private pack
+
+(Open:Spreadsheet) Forge/FML by LexManos, cpw can be found at http://www.minecraftforge.net/.
+(Open:Spreadsheet) AnimationAPI by thehippomaster21 can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289836-animationapi-animate-your-entities-v1-2-2.
+(Open:Spreadsheet) Antique Atlas by Hunternif can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-1-7-2-1-6-4-1-5-2-forge-antique-atlas.
+(Open:Spreadsheet) Applied Energistics by AlgorithX2 can be found at http://ae-mod.info/.
+(Open:Spreadsheet) Aquaculture by Shadowclaimer can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1283907-aquaculture.
+(Open:Spreadsheet) Aroma1997Core by Aroma1997 can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod.
+(Open:Spreadsheet) AromaBackup by Aroma1997 can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod.
+(Open:Spreadsheet) Ars Magica 2 by Mithion can be found at http://www.minecraftforum.net/topic/2028696-ars-magica-2-164-version-112b-updated-jan-27/.
+(Open:Spreadsheet) Artifice by Shukaro can be found at http://www.minecraftforum.net/topic/1860869-.
+(Open:Spreadsheet) AsieLib by asie can be found at http://mc.shinonome.ch/doku.php?id=wiki:asielib.
+(Open:Spreadsheet) Backpacks by Eydamos can be found at http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-12629/.
+(Open:Spreadsheet) Baubles by Azanor can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-5-updated-20-8-2014.
+(Open:Spreadsheet) Bdlib by bdew can be found at http://www.curse.com/mc-mods/minecraft/bdlib.
+(Open:Spreadsheet) BiblioCraft by Nuchaz can be found at http://www.bibliocraftmod.com/.
+(Open:Spreadsheet) Binnie's Mods by Binnie can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284348-1-7-10-1-6-4-forestry-binnies-mods-1-8-0-2-0-dev.
+(Open:Spreadsheet) Biomes O' Plenty by TDWP_FTW, Adubbz can be found at http://www.reddit.com/r/biomesoplenty.
+(Open:Spreadsheet) Blood Magic by WayofTime can be found at http://www.minecraftforum.net/topic/1899223-.
+(Open:Spreadsheet) Botania by Vazkii can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294116-botania-an-innovative-natural-magic-themed-tech.
+(Unknown:Custom) BrewCraft by Enosphorous can be found at http://minecraft.curseforge.com/mc-mods/69805-brewcraft. The license is, . No permission has been listed.
+(Open:Spreadsheet) Buildcraft by CovertJaguar, SirSengir, Krapht, cpw, spacetoad can be found at http://www.mod-buildcraft.com/.
+(Open:Spreadsheet) Carpenter's Blocks by Mineshopper can be found at http://www.minecraftforum.net/topic/1790919-1516forge-carpenters-blocks-v199-slopes-stairs-and-more/.
+(Open:Spreadsheet) Chisel by AUTOMATIC_MAIDEN can be found at http://www.minecraftforum.net/topic/1749374-.
+(Unknown:Custom) ChocoCraft by ClientHax can be found at http://minecraft.curseforge.com/mc-mods/225280-chococraft. The license is, . Permission has been obtained from the author, http://i.imgur.com/urZI5yG.png.
+(Open:Spreadsheet) ClothingCraft by KittyReverant can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2229306-clothingcraft-customizable-dynamic-realistic.
+(Open:Spreadsheet) CodeChickenCore by Chickenbones can be found at http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/.
+(Open:Spreadsheet) CodeChickenLib by Chickenbones can be found at https://github.com/Chicken-Bones/CodeChickenLib.
+(Open:Spreadsheet) CoFH Core by CoFH team can be found at http://teamcofh.com/.
+(Unknown:Custom) CoFHLib by Team CoFH can be found at http://teamcofh.com. The license is, . No permission has been listed.
+(Unknown:Custom) Cosmetic Armor by dmillerw can be found at http://minecraft.curseforge.com/mc-mods/225812-cosmetic-armor. The license is, . No permission has been listed.
+(Open:Spreadsheet) Craft Heraldry by Vazkii can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289645-craftheraldry-coats-of-arms-in-minecraft-over-800.
+(Unknown:Custom) Custom Main Menu by Lumien can be found at http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu. The license is, . Permission has been obtained from the author, http://i.imgur.com/5desm1R.png.
+(Open:Spreadsheet) Custom NPCs by Noppes can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278956-custom-npcs.
+(Open:Spreadsheet) DamageIndicators by rich1051414 can be found at http://www.minecraftforum.net/topic/1536685-172164forge-hit-splat-damage-indicators-v305-rpg-ui-and-damage-amount-mod/.
+(Open:Spreadsheet) DecoCraft by RazzleberryFox can be found at http://www.curse.com/mc-mods/minecraft/decocraft.
+(Open:Spreadsheet) DenseOres by RWTema can be found at https://github.com/rwtema/DenseOres.
+(Open:Spreadsheet) Dimensional Anchors by immibis can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers.
+(Request:Custom) Draconic Evolution by brandon3055 can be found at http://www.tolkiencraft.com/draconic-evolution. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/draconicevolution.png. Permission has been obtained from the author, http://i.imgur.com/dRLDt91.png;.
+(Open:Spreadsheet) Dragon Mounts by BarracudaATA can be found at http://www.minecraftforum.net/topic/827863-.
+(Open:Spreadsheet) Dynamic Transport by Tarig can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1446086-dynamic-transport-moving-elevators-in-minecraft.
+(Open:Spreadsheet) Emotes by Vazkii can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2214387-emotes-dance-wave-facepalm-gangnam-style.
+(Open:Spreadsheet) EnderStorage by Chickenbones can be found at http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/.
+(Open:Spreadsheet) Extra Cells by Leonelf can be found at http://www.minecraftforum.net/topic/1801643-ae-add-onm3gas-extracells-v-167d-smp-ssp/.
+(Open:Spreadsheet) Extra Utilities by RWTema can be found at http://www.minecraftforum.net/topic/1776056-164forge-extra-utilities-v102/.
+(Open:Spreadsheet) Forestry by SirSengir can be found at http://forestry.sengir.net/wiki.new/doku.php.
+(Open:Spreadsheet) Forge Multipart by Chickenbones can be found at http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/.
+(Open:Spreadsheet) Gendustry by bdew can be found at http://bdew.net/gendustry/.
+(Open:Spreadsheet) Gravestone Mod by NightKosh can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288082-gravestone-mod-v2-9-2.
+(Unknown:Custom) Hardcore Questing Mode by lorddusk, Newcastlegeek, Vswe can be found at http://www.curse.com/mc-mods/minecraft/hardcore-questing-mode. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/hardcorequestingmode.png, and can be found http://hardcorequest.com/mod-pack-permissions/. Permission has been obtained from the author, http://i.imgur.com/5h19wsq.png.
+(Open:Spreadsheet) HarvestCraft by MatrexsVigil, Rhodox can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-july-16th-all-mods-updated-to-1-7-10#entry29809669.
+(Open:Spreadsheet) iChunUtil by iChun can be found at http://ichun.us/mods/ichun-util/.
+(Open:Spreadsheet) Iguana Tweaks for Tinker's Construct by boni, iguana_man can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291394-1-6-x-iguana-tweaks-for-tinkers-construct.
+(Open:Spreadsheet) Immibis Core by immibis can be found at http://www.minecraftforum.net/topic/1001131-164-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/.
+(Open:Custom) Infernal Mobs by AtomicStryker can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284359-atomicstrykers-infernal-mobs-diablo-style. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/infernalmobs.png, and can be found http://atomicstryker.net/about.php.
+(Open:Spreadsheet) Inventory Tweaks by Kobata can be found at http://www.minecraftforum.net/topic/1720872-162-inventory-tweaks-156-august-21/.
+(Open:Spreadsheet) IronChests by cpw can be found at http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/.
+(Open:Spreadsheet) JABBA by ProfMobius can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292942-1-7-2-1-6-4-jabba-1-1-3-just-another-better.
+(FTB:Spreadsheet) JourneyMap by techbrew can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348-journeymap-4-0-3-realtime-mapping-in-game-or-in-a. No permission has been listed.
+(Open:Spreadsheet) libsandstone by TrainerGuy22 can be found at https://github.com/EnderWizards/libsandstone.
+(Open:Spreadsheet) Lockdown by Adubbz can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2126669-1-7-x-1-6-4-forge-lockdown.
+(Open:Spreadsheet) LogisticsPipes by davboecki, AartBluestoke, ArtForz, GUIpsp, theZorro266 can be found at http://www.minecraftforum.net/topic/1831791-16xbuildcraft-logistics-pipes/.
+(Open:Custom) Lord of the Rings by Mevans can be found at http://www.minecraftforum.net/topic/1626486-. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/lordoftherings.png.
+(Open:Spreadsheet) Magic Bees by MysteriousAges can be found at http://www.minecraftforum.net/topic/1627856-magic-bees-magic-themed-bees-for-forestry-the-successor-to-thaumicbees/.
+(Open:Spreadsheet) Mantle by mDiyo, progwml6 can be found at http://www.curse.com/mc-mods/minecraft/mantle.
+(Open:Spreadsheet) Minecraft Comes Alive by WildBamaBoy can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280154-minecraft-comes-alive-v4-1-1-three-million.
+(Open:Custom) Minions by AtomicStryker can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280951-1-7-10-minecraft-minions-evil-always-finds-a-way. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/minions.png, and can be found http://atomicstryker.net/about.php.
+(Open:Spreadsheet) Modular Flower Pots by jaquadro can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294201-modular-flower-pots-updated-jul-04-14.
+(Open:Spreadsheet) Morph by iChun can be found at http://ichun.us/mods/morph/.
+(Open:Custom) Mystcraft by XCompWiz can be found at http://www.minecraftforum.net/topic/918541-164-mystcraft-01011/. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/mystcraft.png, and can be found http://binarymage.com/forum/viewtopic.php?f=23&t=844.
+(Open:Spreadsheet) Natura by mDiyo can be found at http://www.minecraftforum.net/topic/1753754-16xnatura/.
+(Open:Spreadsheet) NEI Addons by bdew can be found at http://www.minecraftforum.net/topic/1803460-nei-addons-v1102-updated-120214/.
+(Open:Spreadsheet) NEI Integration by Tonius can be found at http://www.curse.com/mc-mods/minecraft/225251-nei-integration.
+(Unknown:Custom) NoMoreRecipeConflicts by GoToLink can be found at http://www.minecraftforum.net/forum...ink-updates-alarmcraft-28-11-14#RecipeHandler. The license is, . No permission has been listed.
+(Open:Spreadsheet) Not Enough Items by Chickenbones can be found at http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/.
+(Open:Spreadsheet) Not Enough Keys by Mr_okushama can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292963-1-6-4-not-enough-keys-0-0-4-organizing-the.
+(Open:Spreadsheet) NotEnoughCodecs by Mikeemoo can be found at http://openmods.info/.
+(Open:Spreadsheet) OpenBlocks by Mikeemoo can be found at http://www.openblocks.info/.
+(Open:Spreadsheet) OpenEye by Mikeemoo, boq can be found at http://openeye.openmods.info/download.
+(Open:Spreadsheet) OpenModsLib by Mikeemoo can be found at http://www.openblocks.info/.
+(Open:Spreadsheet) Ore Dictionary Converter by EXTER6 can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286974-1-7-2-forge-ore-dictionary-converter.
+(Open:Spreadsheet) Perfect Spawn by lumien can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2154355-perfect-spawn-get-control-over-that-annoying-spawn.
+(Open:Spreadsheet) Professor Flaxbeard's Wondrous Steam Power Mod by Flaxbeard can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091995-professor-flaxbeards-wondrous-steam-power-mod-beta.
+(Open:Spreadsheet) Project Red by MrTJP, Chickenbones can be found at http://www.minecraftforum.net/topic/1885652-164forge-multipart-projectred-v42218-12312013/.
+(Open:Spreadsheet) RadixCore by WildBamaBoy can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294450-1-7-2-api-radixcore-standard-mod-framework-v1-1-0.
+(Open:Spreadsheet) Railcraft by CovertJaguar can be found at http://www.railcraft.info/.
+(Unknown:Custom) Red Gear Core by LordBlackHole can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289075-red-gear-core-2-1-0. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/redgearcore.png, and can be found http://minecraft.curseforge.com/mc-mods/59694-chemcraft-core. No permission has been listed.
+(Open:Spreadsheet) Redstone Arsenal by TeamCoFH can be found at http://teamcofh.com/.
+(Open:Spreadsheet) Refined Relocation by Dynious can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293062-refined-relocation-1-0-6-solves-your.
+(Open:Spreadsheet) Reliquary by TrainerGuy22, x3n0ph0b3 can be found at https://github.com/TrainerGuy22/Reliquary.
+(Unknown:Custom) Resource Loader by Lumien can be found at http://minecraft.curseforge.com/mc-mods/226447-resource-loader. The license is, . No permission has been listed.
+(Open:Spreadsheet) Roguelike Dungeons by Greymerk can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290238-roguelike-dungeons-v1-3-5.
+(Open:Spreadsheet) RPG Advanced Mod by ProfMobius, RazzleberryFox, taelnia, Wulfyk can be found at http://www.curse.com/mc-mods/minecraft/220611-rpg-advanced-mod.
+(Request:Custom) RPG-Hud Mod by KurodaAkira can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289321-1-7-10-1-7-2-rpg-hud-mod-2-5-1. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/rpdhudmod.png, and can be found http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289321-1-7-10-1-7-2-rpg-hud-mod-2-5-1?comment=107. Permission has been obtained from the author, http://i.imgur.com/ul0a3cs.png;.
+(Open:Custom) Ruins by AtomicStryker can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282339-ruins-structure-spawning-system. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/ruins.png, and can be found http://atomicstryker.net/about.php.
+(Open:Spreadsheet) SlimeVoid Library by Eurymachus can be found at https://github.com/SlimeVoid/SlimevoidLibrary.
+(Open:Spreadsheet) Statues by AUTOMATIC_MAIDEN can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292646-statues.
+(Open:Spreadsheet) Storage Drawers by jaquadro can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-updated-sep-01-14.
+(Open:Spreadsheet) Thaumcraft by Azanor can be found at http://www.minecraftforum.net/topic/2011841-thaumcraft-405b-updated-24112013/.
+(Notify:Custom) Thaumcraft NEI Plugin by DjGiannuzz can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2237271-1-6-4-1-7-10-thaumcraft-nei-plugin-nei. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/thaumcraftneiplugin.png. The author has been notified, http://i.imgur.com/TYRmAok.png.
+(Open:Spreadsheet) Thaumic Energistics by Nividica can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2150151-1-7-10-tc4-ae2-thaumic-energistics.
+(Open:Spreadsheet) Thaumic Exploration by Flaxbeard, nekosune can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445786-1-6-4-1-7-10-thaumic-exploration-0-6-0-thaumcraft.
+(Open:Spreadsheet) Thaumic Tinkerer by pixlepix, nekosune, vazkii can be found at http://www.minecraftforum.net/topic/1813058-thaumic-tinkerer-thaumcraft-addon-evolve-knowledge/.
+(Open:Spreadsheet) The Camping Mod by __Rikmuld__ can be found at http://www.rikmuld.com/.
+(Open:Spreadsheet) Thermal Expansion by CoFH team can be found at http://teamcofh.com/.
+(Open:Spreadsheet) Thermal Foundation by TeamCoFH can be found at http://www.curse.com/mc-mods/minecraft/222880-thermal-foundation.
+(Open:Spreadsheet) TiC Tooltips by squeek502 can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool.
+(Open:Spreadsheet) Tinker's Construct by boni, mDiyo can be found at http://www.minecraftforum.net/topic/1659892-164tinkers-construct/.
+(Open:Spreadsheet) Tinker's Mechworks by mDiyo can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1446244-1-6-4-tinkers-mechworks.
+(Unknown:Custom) TolkienTweaks by brandon3055 can be found at None. The license is, . Permission has been obtained from the author, Special.
+(Open:Spreadsheet) Translocators by Chickenbones can be found at http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/.
+(Open:Spreadsheet) Traveller's Gear by Dawn_1006 can be found at http://www.curse.com/mc-mods/minecraft/224440-travellers-gear.
+(Open:Custom) Unique Artifacts by Draco18s can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291999-unique-artifacts-powerful-randomly-generated-items. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/uniqueartifactsprivate.png, and can be found http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291999-unique-artifacts-powerful-randomly-generated-items?comment=391.
+(Open:Spreadsheet) Waila by ProfMobius can be found at http://www.minecraftforum.net/topic/1846244-172-waila-145/.
+(Open:Spreadsheet) Wawla by Darkhax can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2169830-wawla-what-are-we-looking-at.
+(Open:Spreadsheet) Wireless Redstone CBE by Chickenbones can be found at http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/.
+(Notify:Custom) Witchery by Emoniph can be found at http://www.minecraftforum.net/topic/1992544-164-forge-witchery-0140/. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/witchery.png. The author has been notified, http://i.imgur.com/QcA1PlZ.png.
+(Open:Spreadsheet) Yampst by bilde2910 can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091766-yampst-ultimate-statistics-tool-for-mod-packs.

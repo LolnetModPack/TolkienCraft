@@ -1,0 +1,46 @@
+# Graveyard Gate
+# MC 1.7.10; 12 Nov 2014
+# Created by Ruins mod version 14.2 Ingame Parser
+# authoring Player: Jordan_Greywolf
+# Special Instructions: Place in /templateparser folder.
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=6,1,4
+allowable_overhang=0
+max_leveling=2
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+preserve_plants=1
+
+rule1=0,100,minecraft:double_stone_slab-0
+rule2=0,100,minecraft:cobblestone_wall-1
+rule3=0,100,preserveBlock
+
+layer
+1,0,0,1
+endlayer
+
+layer
+1,0,0,1
+endlayer
+
+layer
+1,0,0,1
+endlayer
+
+layer
+1,0,0,1
+endlayer
+
+layer
+2,2,2,2
+endlayer
+
+layer
+0,2,2,0
+endlayer
+

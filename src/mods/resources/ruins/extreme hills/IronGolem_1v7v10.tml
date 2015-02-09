@@ -1,0 +1,54 @@
+
+# Iron Golem
+# 15 Mar 2014; Updated to MC 1.7.10, 10 Oct 2014
+# Created by Ruins mod version 12.3 Ingame Parser
+# authoring Player: Jordan_Greywolf
+# Converted to 1.5.2 - 2 Apr 2014
+
+
+# This should spawn an iron golem who begins wandering aimlessly,
+# since it has no associated village.
+
+uniqueMinDistance=1000
+
+biomesToSpawnIn=alpine,badlands,bog,canyon,crag,dead forest,extreme hills+ m,extreme hills+,extreme hills m,forest,foresthills,ice plains,ice plains spikes,mesa,mesa (bryce),mesa plateau,mesa plateau f,mesa plateau f m,mesa plateau,mountain ridge,ominous woods,shield,sludge pit,thicket,thornlands,volcano,wasteland
+
+weight=1
+embed_into_distance=0
+
+unacceptable_target_blocks=water,flowing_water,lava,flowing_lava
+
+dimensions=3,3,1
+allowable_overhang=50
+max_cut_in=0
+cut_in_buffer=0
+max_leveling=0
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+preserve_plants=1
+
+# Iron Block (body)
+rule1=0,100,minecraft:iron_block
+
+# Lit Pumpkin / Jack-o-Lantern (head)
+rule2=1,100,minecraft:lit_pumpkin
+
+layer
+0
+1
+0
+endlayer
+
+layer
+1
+1
+1
+endlayer
+
+layer
+0
+2
+0
+endlayer
+

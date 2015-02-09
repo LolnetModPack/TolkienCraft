@@ -1,0 +1,39 @@
+# Warning Sign
+# MC 1.7.10; 7 Nov 2014
+# Created by Ruins mod version 14.2 Ingame Parser
+# authoring Player: Jordan_Greywolf
+
+biomesToSpawnIn=jungle,junglehills,extreme jungle,swampland,swampland m,bog,mire,sludgepit
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=3,2,3
+allowable_overhang=0
+max_leveling=2
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+preserve_plants=1
+
+rule1=0,100,minecraft:fence-0
+rule2=2,100,WallSign:DANGER!:Turn:Back:Now!-5
+rule3=1,100,minecraft:redstone_torch-5
+rule4=0,100,Skull:0:4-1
+
+layer
+0,1,0
+0,0,0
+endlayer
+
+layer
+1,1,1
+0,2,0
+endlayer
+
+layer
+3,4,3
+0,0,0
+endlayer
+
