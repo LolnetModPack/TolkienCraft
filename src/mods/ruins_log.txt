@@ -66,13 +66,13 @@ template UndeadBarn_1v7v10.tml contains Command Block command: /summon EntityHor
 template UndeadBarn_1v7v10.tml contains Command Block command: /summon EntityHorse ~0 ~1 ~0 {Type:3,Tame:1,Attributes:[{Name:generic.knockbackResistance,Base:50}],ActiveEffects:[{Id:12,Amplifier:1,Duration:999999},{Id:21,Amplifier:1,Duration:999999},{Id:10,Amplifier:1,Duration:999999},{Id:11,Amplifier:1,Duration:999999},{Id:13,Amplifier:1,Duration:999999}],PersistenceRequired:1}:@
 template GiantBeanstalk_1v7v10.tml contains Command Block command: RUINSTRIGGER /summon Giant ~0 ~1 ~0 {AbsorptionAmount:10,Equipment:[{Count:1,id:352,tag:{display:{Name:Giant Club,Lore:["Fee Fie Fo Fum!"]},ench:[{id:19,lvl:8},{id:16,lvl:8}]}},{Count:1,id:301,tag:{display:{Name:Beanstalk Boots,Lore:["That first step's a doozy!"]},ench:[{id:2,lvl:25},{id:0,lvl:2},{id:7,lvl:3},{id:34,lvl:3}]}},{},{},{}],CustomName:The Giant!,Attributes:[{Name:generic.maxHealth,Base:125},{Name:generic.knockbackResistance,Base:1}],DropChances:[0.3F,0.3F,0.0F,0.0F,0.0F],PersistenceRequired:1}:@
 
-Loading excluded list from: C:\Users\TechnoDragon\Downloads\MultiMC\instances\TolkienCraft ModPack 1.7.10\minecraft\saves\Draconia\Utumno
+Loading excluded list from: J:\MultiMC\instances\TolkienCraft ModPack 1.7.10\minecraft\saves\Draconia - Content Update\DIM-47
 No exclusions found for this world.
 
-Loading options from: C:\Users\TechnoDragon\Downloads\MultiMC\instances\TolkienCraft ModPack 1.7.10\minecraft\saves\Draconia\Utumno
+Loading options from: J:\MultiMC\instances\TolkienCraft ModPack 1.7.10\minecraft\saves\Draconia - Content Update\DIM-47
 tries_per_chunk_normal = 6
 chance_to_spawn_normal = 10.0
 templateInstancesMinDistance = 256.0
 anyRuinsMinDistance = 64.0
-Ruins mod loaded successfully for world C:\Users\TechnoDragon\Downloads\MultiMC\instances\TolkienCraft ModPack 1.7.10\minecraft\saves\Draconia\Utumno, template files: 172
+Ruins mod loaded successfully for world J:\MultiMC\instances\TolkienCraft ModPack 1.7.10\minecraft\saves\Draconia - Content Update\DIM-47, template files: 172
 te files: 172
