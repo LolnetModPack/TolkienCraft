@@ -7,7 +7,7 @@
   },
   "userFiles": {
     "include": [
-      "servers.dat", 
+      "servers.dat",
       "options.txt"
     ]
   }
