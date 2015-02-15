@@ -2,10 +2,10 @@
 "minimumVersion": 1, 
 "packages": [
 {
-"name": "TolkienCraft Package", 
-"title": "TolkienCraft", 
+"name": "TolkienCraft Package SNAPSHOT", 
+"title": "TolkienCraft SNAPSHOT", 
 "version": "MODPACKVERSION", 
-"location": "https://www.lolnet.co.nz/modpack/TolkienCraft.json", 
+"location": "https://www.lolnet.co.nz/modpack/TolkienCraft-dev.json", 
 "priority": 1
 }
 ]

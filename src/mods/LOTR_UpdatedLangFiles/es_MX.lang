@@ -156,6 +156,7 @@ tile.lotr:pillar.5.name=
 tile.lotr:pillar.6.name=
 tile.lotr:pillar.7.name=
 tile.lotr:pillar.8.name=
+tile.lotr:pillar.9.name=
 tile.lotr:oreGlowstone.name=Mineral de Piedra Brillante
 tile.lotr:fruitWood.0.name=Madera de Manzano
 tile.lotr:fruitWood.1.name=Madera de Peral
@@ -289,6 +290,11 @@ tile.lotr:brick2.7.name=Ladrillos Uruk Hai
 tile.lotr:brick2.8.name=Ladrillos de Dol Guldur
 tile.lotr:brick2.9.name=Ladrillos de Dol Guldur Agrietado
 tile.lotr:brick2.10.name=
+tile.lotr:brick2.11.name=
+tile.lotr:brick2.12.name=
+tile.lotr:brick2.13.name=
+tile.lotr:brick2.14.name=
+tile.lotr:brick2.15.name=
 tile.lotr:wallStone2.0.name=Pared de Ladrillos de Angmar
 tile.lotr:wallStone2.1.name=Pared de Ladrillos de Angmar Agrietado
 tile.lotr:wallStone2.2.name=Pared de Sarncaran
@@ -299,6 +305,7 @@ tile.lotr:wallStone2.6.name=Pared de Ladrillos de Arnor Agrietado
 tile.lotr:wallStone2.7.name=Pared de Ladrillos Uruk Hai
 tile.lotr:wallStone2.8.name=Pared de Ladrillos de Dol Guldur
 tile.lotr:wallStone2.9.name=Pared de Ladrillos de Dol Guldur Agrietado
+tile.lotr:wallStone2.10.name=
 tile.lotr:stairsAngmarBrick.name=Escaleras de Ladrillos de Angmar
 tile.lotr:stairsAngmarBrickCracked.name=Escaleras de Ladrillos de Angmar Agrietado
 tile.lotr:stairsMango.name=Escaleras de Madera de Mango
@@ -370,6 +377,8 @@ tile.lotr:utumnoPillar.2.name=
 tile.lotr:slabSingle5.0.name=
 tile.lotr:slabSingle5.1.name=
 tile.lotr:slabSingle5.2.name=
+tile.lotr:slabSingle5.3.name=
+tile.lotr:slabSingle5.4.name=
 tile.lotr:stairsMangrove.name=
 tile.lotr:tallGrass.0.name=
 tile.lotr:tallGrass.1.name=
@@ -416,6 +425,12 @@ tile.lotr:oreStorage2.0.name=
 tile.lotr:mordorGrass.name=
 tile.lotr:mordorDirt.name=
 tile.lotr:mordorGravel.name=
+tile.lotr:commandTable.name=
+tile.lotr:halfTrollCraftingTable.name=
+tile.lotr:butterflyJar.name=
+tile.lotr:stairsBlackGondorBrick.name=
+tile.lotr:brick3.0.name=
+tile.lotr:brick3.1.name=
 
 item.lotr:goldRing.name=Anillo de Oro
 item.lotr:pouch.0.name=Bolsa Pequeña
@@ -527,7 +542,9 @@ item.lotr:helmetElven.name=Yelmo de los Galadrim
 item.lotr:bodyElven.name=Peto de los Galadrim
 item.lotr:legsElven.name=Grebas de los Galadrim
 item.lotr:bootsElven.name=Botas de los Galadrim
-item.lotr:coin.name=Moneda de Plata
+item.lotr:coin.1.name=
+item.lotr:coin.10.name=
+item.lotr:coin.100.name=
 item.lotr:gammon.name=Tocíno
 item.lotr:clayPlate.name=Plato de Arcilla
 item.lotr:plate.name=Plato
@@ -708,21 +725,22 @@ item.lotr:daggerElvenPoisoned.name=Daga de los Galadrim Envenenada
 item.lotr:daggerDwarvenPoisoned.name=Daga de Enano Envenenada
 item.lotr:daggerRohanPoisoned.name=Daga de Rohan Envenenada
 item.lotr:daggerWoodElvenPoisoned.name=Daga de los Elfos del Bosque Envenenada
-item.lotr:banner.0.name=Estandarte de Gondor
-item.lotr:banner.1.name=Estandarte de Rohan
-item.lotr:banner.2.name=Estandarte de Mordor
-item.lotr:banner.3.name=Estandarte de Lothlorien
-item.lotr:banner.4.name=Estandarte del Reino del Bosque
-item.lotr:banner.5.name=Estandarte de Las Tierras Brunas
-item.lotr:banner.6.name=Estandarte Uruk Hai
-item.lotr:banner.7.name=Estandarte de la Casa de Durin
-item.lotr:banner.8.name=Estandarte de Angmar
-item.lotr:banner.9.name=Estandarte de Harad Cercano
-item.lotr:banner.10.name=Estandarte de los Altos Elfos
-item.lotr:banner.11.name=Estandarte de las Montañas Azules
-item.lotr:banner.12.name=Estandarte de Montaraces
-item.lotr:banner.13.name=Estandarte de Dol Guldur
-item.lotr:banner.14.name=Estandarte de Gundabad
+item.lotr:banner.gondor.name=
+item.lotr:banner.rohan.name=
+item.lotr:banner.mordor.name=
+item.lotr:banner.lothlorien.name=
+item.lotr:banner.mirkwood.name=
+item.lotr:banner.dunland.name=
+item.lotr:banner.urukHai.name=
+item.lotr:banner.durin.name=
+item.lotr:banner.angmar.name=
+item.lotr:banner.nearHarad.name=
+item.lotr:banner.highElf.name=
+item.lotr:banner.blueMountains.name=
+item.lotr:banner.ranger.name=
+item.lotr:banner.dolGuldur.name=
+item.lotr:banner.gundabad.name=
+item.lotr:banner.halfTroll.name=
 item.lotr:sulfurMatch.name=Mecha de Sulfuro
 item.lotr:swordAngmar.name=Espada de Angmar
 item.lotr:daggerAngmar.name=Daga de Angmar
@@ -884,6 +902,41 @@ item.lotr:gondorBow.name=
 item.lotr:highElvenBow.name=
 item.lotr:utumnoPickaxe.name=
 item.lotr:balrogWhip.name=
+item.lotr:battleaxeIron.name=
+item.lotr:battleaxeBronze.name=
+item.lotr:bronzeCrossbow.name=
+item.lotr:conquestHorn.name=
+item.lotr:helmetHalfTroll.name=
+item.lotr:bodyHalfTroll.name=
+item.lotr:legsHalfTroll.name=
+item.lotr:bootsHalfTroll.name=
+item.lotr:battleaxeHalfTroll.name=
+item.lotr:hammerHalfTroll.name=
+item.lotr:maceHalfTroll.name=
+item.lotr:scimitarHalfTroll.name=
+item.lotr:daggerHalfTroll.name=
+item.lotr:daggerHalfTrollPoisoned.name=
+item.lotr:mugTorogDraught.name=
+item.lotr:berryPie.name=
+item.lotr:mugBlueberryJuice.name=
+item.lotr:mugBlackberryJuice.name=
+item.lotr:mugRaspberryJuice.name=
+item.lotr:mugCranberryJuice.name=
+item.lotr:mugElderberryJuice.name=
+item.lotr:rhinoArmorHalfTroll.name=
+item.lotr:helmetDwarvenSilver.name=
+item.lotr:bodyDwarvenSilver.name=
+item.lotr:legsDwarvenSilver.name=
+item.lotr:bootsDwarvenSilver.name=
+item.lotr:helmetDwarvenGold.name=
+item.lotr:bodyDwarvenGold.name=
+item.lotr:legsDwarvenGold.name=
+item.lotr:bootsDwarvenGold.name=
+item.lotr:helmetDwarvenMithril.name=
+item.lotr:bodyDwarvenMithril.name=
+item.lotr:legsDwarvenMithril.name=
+item.lotr:bootsDwarvenMithril.name=
+item.lotr:torogStew.name=
 
 item.lotr.orcBomb.fire=Fuego
 item.lotr.orcBomb.doubleStrength=Doble Intensidad
@@ -921,21 +974,22 @@ lotr.creativetab.combat=Armas de la Tierra Media
 lotr.creativetab.magic=Objetos Mágicos de La Tierra Media
 lotr.creativetab.spawning=Spawners de la Tierra Media
 
-container.lotr.morgulCrafting=Mesa de Trabajo de Morgul
-container.lotr.elvenCrafting=Mesa de Trabajo de los Galadrim
-container.lotr.dwarvenCrafting=Mesa de Trabajo de Enano
-container.lotr.urukCrafting=Mesa de Trabajo Uruk hai
-container.lotr.gondorianCrafting=Mesa de Trabajo Gondoriana
-container.lotr.rohirricCrafting=Mesa de Trabajo de Rohan
-container.lotr.woodElvenCrafting=Mesa de Trabajo de los Elfos del Bosque
-container.lotr.dunlendingCrafting=Mesa de Trabajo Dunlendina
-container.lotr.angmarCrafting=Mesa de Trabajo de Angmar
-container.lotr.nearHaradCrafting=Mesa de Trabajo de Harad Cercano
-container.lotr.highElvenCrafting=Mesa de Trabajo de los Altos Elfos
-container.lotr.blueDwarvenCrafting=Mesa de Trabajo de las Montañas Azules
-container.lotr.rangerCrafting=Mesa de Trabajo de Montaráz
-container.lotr.dolGuldurCrafting=Mesa de Trabajo de Dol Guldur
-container.lotr.gundabadCrafting=Mesa de Trabajo de Gundabad
+container.lotr.crafting.morgul=
+container.lotr.crafting.elven=
+container.lotr.crafting.dwarven=
+container.lotr.crafting.uruk=
+container.lotr.crafting.gondorian=
+container.lotr.crafting.rohirric=
+container.lotr.crafting.woodElven=
+container.lotr.crafting.dunlending=
+container.lotr.crafting.angmar=
+container.lotr.crafting.nearHarad=
+container.lotr.crafting.highElven=
+container.lotr.crafting.blueDwarven=
+container.lotr.crafting.ranger=
+container.lotr.crafting.dolGuldur=
+container.lotr.crafting.gundabad=
+container.lotr.crafting.halfTroll=
 
 container.lotr.hobbitOven=Horno Hobbit
 container.lotr.barrel=Barril
@@ -950,8 +1004,9 @@ container.lotr.orcForge=Forja de Orcos
 container.lotr.trade.buy=Comprar
 container.lotr.trade.sell=Vender
 container.lotr.trade.sellPrice=por %d
-
 container.lotr.unitTrade.requiresAlignment=Requiere +%d de Alineación
+container.lotr.unitTrade.squadronBox=
+container.lotr.coinExchange=
 
 lotr.gui.miniquestOffer.accept=Aceptar
 lotr.gui.miniquestOffer.decline=Rechazar
@@ -1004,7 +1059,7 @@ lotr.gui.menuPrompt=Presiona '%s' Para ver el menú de la Tierra Media
 lotr.gui.alignmentPrompt=Usa las teclas '%s' y '%s' para alternar entre Alineaciones
 
 lotr.gui.map=Mapa
-lotr.gui.alignment=Alineación
+lotr.gui.factions=
 lotr.gui.achievements=Logros
 lotr.gui.titles=
 lotr.gui.shields=Escudos
@@ -1035,7 +1090,17 @@ lotr.gui.map.customWaypoint.delete.3=Presiona %s para borrar la ubicación
 lotr.gui.map.customWaypoint.protected.1=
 lotr.gui.map.customWaypoint.protected.2=
 
-lotr.gui.alignment.title=Alineación en La Tierra Media
+lotr.gui.factions.title=
+lotr.gui.factions.alignment=
+lotr.gui.factions.alignment.state=
+lotr.gui.factions.alignment.ally=
+lotr.gui.factions.alignment.neutral=
+lotr.gui.factions.alignment.enemy=
+lotr.gui.factions.data.enemiesKilled=
+lotr.gui.factions.data.trades=
+lotr.gui.factions.data.hires=
+lotr.gui.factions.data.miniquests=
+lotr.gui.factions.data.npcsKilled=
 
 lotr.gui.achievements.title=Logros en La Tierra Media
 lotr.gui.achievements.category=
@@ -1086,7 +1151,8 @@ lotr.title.ROHAN_100=
 lotr.title.GONDOR_100=
 lotr.title.MORDOR_100=
 lotr.title.NEAR_HARAD_100=
-lotr.title.FAR_HARAD_100=
+lotr.title.MOREDAIN_100=
+lotr.title.TAUREDAIN_100=
 lotr.title.HALF_TROLL_100=
 
 lotr.title.trollSlayer=
@@ -1132,6 +1198,8 @@ lotr.shields.ALIGNMENT_MORDOR.name=Escudo de las Sombras
 lotr.shields.ALIGNMENT_MORDOR.desc=Concedido por alcanzar +1000 de alineación con Mordor
 lotr.shields.ALIGNMENT_NEAR_HARAD.name=Escudo de la Serpiente
 lotr.shields.ALIGNMENT_NEAR_HARAD.desc=Concedido por alcanzar +1000 de alineación con Harad Cercano
+lotr.shields.ALIGNMENT_HALF_TROLL.name=
+lotr.shields.ALIGNMENT_HALF_TROLL.desc=
 
 lotr.shields.ACHIEVEMENT_BRONZE.name=Escudo de Aventurero de Bronce
 lotr.shields.ACHIEVEMENT_BRONZE.desc=Disponible al haber ganado 25 logros en la Tierra Media
@@ -1166,6 +1234,8 @@ lotr.shields.OGRE.name=Escudo de Ogro
 lotr.shields.OGRE.desc=Concedido por hacer un descubrimiento mágico
 lotr.shields.LOREMASTER_2013.name=Escudo de Conocedores de la Tradición 2013
 lotr.shields.LOREMASTER_2013.desc=Concedido a los cinco principales contribuyentes en la wiki del mod durante el 2013
+lotr.shields.LOREMASTER_2014.name=
+lotr.shields.LOREMASTER_2014.desc=
 
 lotr.gui.shields.title=Escudos de La Tierra Media
 lotr.gui.shields.select=Elegir Escudo
@@ -1196,14 +1266,19 @@ lotr.gui.hornSelect.title=Selección de Cuerno de Mando
 lotr.gui.hornSelect.haltReady=Unidades Detenidas/Activas
 lotr.gui.hornSelect.summon=Invocar Unidades
 
+lotr.gui.squadronItem.squadron=
+lotr.gui.squadronItem.done=
+
 lotr.gui.npc.talk=Hablar
 lotr.gui.npc.trade=Comerciar
+lotr.gui.npc.exchange=
 lotr.gui.npc.hire=Contratar
 lotr.gui.npc.command=Ordenar
 lotr.gui.npc.dismiss=Desvincular Unidad
 
-lotr.gui.warrior.obeyHaltReady=Obedecer Detenido/Activo
-lotr.gui.warrior.obeySummon=Obedecer Invocación
+lotr.gui.warrior.overview=
+lotr.gui.warrior.options=
+lotr.gui.warrior.squadron=
 lotr.gui.warrior.teleport=Teletransportar automaticamente
 lotr.gui.warrior.guardMode=Modo de guardia
 lotr.gui.warrior.guardRange=Rango de guardia
@@ -1255,8 +1330,6 @@ lotr.hiredNPC.alignmentRequired=%s puntos de alineación requeridos para dar ord
 
 entity.lotr.generic.entityName=%s, el %s
 entity.lotr.Rohirrim.entityName=%s de Rohan
-entity.lotr.RohirrimArcher.entityName=%s, Arquero de Rohan
-entity.lotr.RohirrimMarshal.entityName=%s, Mariscal de Rohan
 entity.lotr.NearHaradrim.entityName=%s de Harad Cercano
 
 entity.lotr.HobbitBartender.locationName=Taverna de %s
@@ -1407,6 +1480,16 @@ entity.lotr.Termite.name=
 entity.lotr.DikDik.name=
 entity.lotr.BlackUruk.name=
 entity.lotr.BlackUrukArcher.name=
+entity.lotr.HalfTroll.name=
+entity.lotr.RangerIthilienCaptain.name=
+entity.lotr.RangerIthilienBannerBearer.name=
+entity.lotr.HalfTrollWarrior.name=
+entity.lotr.HalfTrollBannerBearer.name=
+entity.lotr.HalfTrollWarlord.name=
+entity.lotr.AngmarOrcTrader.name=
+entity.lotr.DolGuldurOrcTrader.name=
+entity.lotr.HalfTrollScavenger.name=
+entity.lotr.Moredain.name=
 
 entity.lotr.UtumnoOrc.name=
 entity.lotr.UtumnoOrcArcher.name=
@@ -1471,49 +1554,95 @@ lotr.unit.BlueDwarfAxeThrower_Boar=Lanzador de Hachas Montador de Cerdo Salvaje
 lotr.unit.DolGuldurOrc_Spider=Montador de Araña
 lotr.unit.DolGuldurOrcArcher_Spider=Montador Arquero de Araña
 
+lotr.unit.HalfTrollWarrior_Rhino=
+
 lotr.faction.HOBBIT.name=Hobbits
 lotr.faction.HOBBIT.entity=Hobbits
+lotr.faction.HOBBIT.subtitle=
+
 lotr.faction.RANGER_NORTH.name=Montaráces del Norte
 lotr.faction.RANGER_NORTH.entity=Montaráces del Norte
+lotr.faction.RANGER_NORTH.subtitle=
+
 lotr.faction.BLUE_MOUNTAINS.name=Montañas Azules
 lotr.faction.BLUE_MOUNTAINS.entity=Enanos de las Montañas Azules
+lotr.faction.BLUE_MOUNTAINS.subtitle=
+
 lotr.faction.HIGH_ELF.name=Altos Elfos
 lotr.faction.HIGH_ELF.entity=Altos Elfos
+lotr.faction.HIGH_ELF.subtitle=
+
 lotr.faction.GUNDABAD.name=Gundabad
 lotr.faction.GUNDABAD.entity=Engendros de Gundabad
+lotr.faction.GUNDABAD.subtitle=
+
 lotr.faction.ANGMAR.name=Angmar
 lotr.faction.ANGMAR.entity=Engendros de Angmar
+lotr.faction.ANGMAR.subtitle=
+
 lotr.faction.WOOD_ELF.name=Reino del Bosque
 lotr.faction.WOOD_ELF.entity=Elfos del Bosque
+lotr.faction.WOOD_ELF.subtitle=
+
 lotr.faction.DOL_GULDUR.name=Dol Guldur
 lotr.faction.DOL_GULDUR.entity=Engendros de Dol Guldur
+lotr.faction.DOL_GULDUR.subtitle=
+
 lotr.faction.DWARF.name=La Casa de Durin
 lotr.faction.DWARF.entity=Enanos de la Casa de Durin
+lotr.faction.DWARF.subtitle=
+
 lotr.faction.GALADHRIM.name=Lothlórien
 lotr.faction.GALADHRIM.entity=Elfos de Lothlórien
+lotr.faction.GALADHRIM.subtitle=
+
 lotr.faction.DUNLAND.name=Tierras Brunas
 lotr.faction.DUNLAND.entity=Dunlendinos
+lotr.faction.DUNLAND.subtitle=
+
 lotr.faction.URUK_HAI.name=Uruk hai
 lotr.faction.URUK_HAI.entity=Engendros de Isengard
+lotr.faction.URUK_HAI.subtitle=
+
 lotr.faction.FANGORN.name=Fangorn
 lotr.faction.FANGORN.entity=Fangorn
+lotr.faction.FANGORN.subtitle=
+
 lotr.faction.ROHAN.name=Rohan
 lotr.faction.ROHAN.entity=Hombres de Rohan
+lotr.faction.ROHAN.subtitle=
+
 lotr.faction.GONDOR.name=Gondor
 lotr.faction.GONDOR.entity=Hombres de Gondor
+lotr.faction.GONDOR.subtitle=
+
 lotr.faction.MORDOR.name=Mordor
 lotr.faction.MORDOR.entity=Engendros de Mordor
+lotr.faction.MORDOR.subtitle=
+
 lotr.faction.NEAR_HARAD.name=Harad Cercano
 lotr.faction.NEAR_HARAD.entity=Haradrim Cercanos
-lotr.faction.FAR_HARAD.name=Harad Lejano
-lotr.faction.FAR_HARAD.entity=Haradim Lejanos
+lotr.faction.NEAR_HARAD.subtitle=
+
+lotr.faction.MOREDAIN.name=
+lotr.faction.MOREDAIN.entity=
+lotr.faction.MOREDAIN.subtitle=
+
+lotr.faction.TAUREDAIN.name=
+lotr.faction.TAUREDAIN.entity=
+lotr.faction.TAUREDAIN.subtitle=
+
 lotr.faction.HALF_TROLL.name=Semi Trolls
 lotr.faction.HALF_TROLL.entity=Semi Trolls
+lotr.faction.HALF_TROLL.subtitle=
 
 lotr.faction.UTUMNO.name=
 lotr.faction.UTUMNO.entity=
+lotr.faction.UTUMNO.subtitle=
 
 lotr.dimension.MiddleEarth=
+lotr.dimension.MiddleEarth.west=
+lotr.dimension.MiddleEarth.south=
 lotr.dimension.Utumno=
 
 lotr.dimension.enter=
@@ -1529,7 +1658,6 @@ lotr.biome.mordorMountains.name=Montañas de Mordor
 lotr.biome.gondor.name=Gondor
 lotr.biome.whiteMountains.name=Montañas Blancas
 lotr.biome.lothlorien.name=Lothlórien
-lotr.biome.lothlorienClearing.name=Claro de Lothlórien
 lotr.biome.ironHills.name=Colinas de Hierro
 lotr.biome.deadMarshes.name=La Cienaga de los Muertos
 lotr.biome.trollshaws.name=Bosque de los Trolls
@@ -1556,7 +1684,6 @@ lotr.biome.midgewater.name=Moscagua
 lotr.biome.brownLands.name=Tierras Pardas
 lotr.biome.ocean.name=Oceano
 lotr.biome.anduinHills.name=
-lotr.biome.anduinHillsWoodlands.name=
 lotr.biome.gladdenFields.name=Campos Gladios
 lotr.biome.lothlorienEdge.name=Lindes de Lothlórien
 lotr.biome.forodwaith.name=Forodwaith
@@ -1565,20 +1692,13 @@ lotr.biome.angmar.name=Angmar
 lotr.biome.eregion.name=Eregion
 lotr.biome.lindon.name=Lindon
 lotr.biome.lindonWoodlands.name=Bosques de Lindon
-lotr.biome.eregionForest.name=Bosque de Eregion
 lotr.biome.blueMountains.name=Montañas Azules
 lotr.biome.mirkwoodMountains.name=Montañas del Bosque Negro
 lotr.biome.wilderland.name=Rhovanion
 lotr.biome.dagorlad.name=Dagorlad
 lotr.biome.nurn.name=Núrn
 lotr.biome.nurnen.name=Mar de Núrnen
-lotr.biome.eregionHills.name=Colinas de Eregion
-lotr.biome.brownLandsWoodlands.name=Bosques de las Tierras Pardas
 lotr.biome.angmarMountains.name=Montañas de Angmar
-lotr.biome.enedwaithWoodlands.name=Bosques de Enedwaith
-lotr.biome.fangornMountains.name=Montañas de Fangorn
-lotr.biome.fangornBirchForest.name=Bosques de Abedúl de Fangorn
-lotr.biome.mistyMountainsForest.name=Bosques de las Montañas Nubladas
 lotr.biome.fangornWasteland.name=Páramos de Fangorn
 lotr.biome.rohanWoodlands.name=Bosques de Rohan
 lotr.biome.gondorWoodlands.name=Bosques de Gondor
@@ -1590,15 +1710,9 @@ lotr.biome.ithilienHills.name=Colinas de Ithilien
 lotr.biome.ithilienWasteland.name=Paramos de Ithilien
 lotr.biome.nindalf.name=Cancha Aguada
 lotr.biome.coldfells.name=Paramos Helados
-lotr.biome.rohanBoulderFields.name=Campos de rocas de Rohan
 lotr.biome.shireOrchard.name=Huerto de la Comarca
-lotr.biome.wilderlandForest.name=Bosques de Rhovanion
 lotr.biome.swanfleet.name=Nin-in-Eilph
-lotr.biome.harondorShrubland.name=Matorrales de Harondor
 lotr.biome.minhiriath.name=Minhiriath
-lotr.biome.minhiriathWoodlands.name=Bosques de Minhiriath
-lotr.biome.minhiriathWasteland.name=Paramos de Minhiriath
-lotr.biome.dunlandForest.name=Bosque de las Tierras Brunas
 lotr.biome.nanUngol.name=Nan Ungol
 lotr.biome.gondorHills.name=Colinas de Gondor
 lotr.biome.island.name=Isla
@@ -1619,17 +1733,10 @@ lotr.biome.farHarad.name=Harad Lejáno
 lotr.biome.haradMountains.name=Montañas de Harad
 lotr.biome.umbar.name=Umbar
 lotr.biome.farHaradJungle.name=Jungla del Harad Lejano
-lotr.biome.farHaradJungleHills.name=Colinas de la Jungla del Harad Cercano
-lotr.biome.nearHaradDunes.name=Dunas del Harad Cercano
-lotr.biome.nearHaradBoulderFields.name=Campos de Roca del Harad Cercano
 lotr.biome.farHaradRiver.name=Río del Harad Lejano
 lotr.biome.farHaradForest.name=Bosque del Harad Lejano
 lotr.biome.nearHaradFertile.name=Fértil Harad Cercano
 lotr.biome.pertorogwaith.name=Pertorogwaith
-lotr.biome.eriadorWoodlandsDense.name=Bosques densos de Eriador
-lotr.biome.anduinHillsWoodlandsDense.name=
-lotr.biome.enedwaithWoodlandsDense.name=Bosques densos de Enedwaith
-lotr.biome.wilderlandForestDense.name=Bosques densos de Rhovanion
 lotr.biome.wilderlandHills.name=Colinas de Rhovanion
 lotr.biome.tolfalas.name=Tolfalas
 lotr.biome.lebennin.name=Lebennin
@@ -1648,11 +1755,14 @@ lotr.biome.farHaradBushlandHills.name=
 lotr.biome.farHaradMangrove.name=
 lotr.biome.nearHaradFertileForest.name=
 lotr.biome.anduinVale.name=
-lotr.biome.anduinValeWoodlands.name=
 lotr.biome.shireMoors.name=
 lotr.biome.shireMarshes.name=
 lotr.biome.farHaradBaobab.name=
 lotr.biome.farHaradVolcano.name=
+lotr.biome.udun.name=
+lotr.biome.gorgoroth.name=
+lotr.biome.morgulVale.name=
+lotr.biome.easternDesolation.name=
 
 lotr.biome.utumno.name=
 
@@ -1683,6 +1793,9 @@ lotr.structure.GundabadForgeTent.name=Forja Gundabad
 
 lotr.structure.AngmarTower.name=Torre de Angmar
 lotr.structure.AngmarShrine.name=Santuario de Angmar
+lotr.structure.AngmarWargPit.name=
+lotr.structure.AngmarTent.name=
+lotr.structure.AngmarForgeTent.name=
 
 lotr.structure.WoodElfLookoutPlatform.name=Plataforma de Vigilancia de los Elfos del Bosque
 lotr.structure.WoodElfHouse.name=Casa de Elfos del Bosque
@@ -1691,6 +1804,9 @@ lotr.structure.RuinedWoodElfTower.name=Torre de los Elfos del Bosque en Ruinas
 
 lotr.structure.DolGuldurAltar.name=Santuario de Dol Guldur
 lotr.structure.DolGuldurTower.name=Torre de Dol Guldur
+lotr.structure.DolGuldurSpiderPit.name=
+lotr.structure.DolGuldurTent.name=
+lotr.structure.DolGuldurForgeTent.name=
 
 lotr.structure.DwarvenMineEntrance.name=Entrada de Mina de Enanos
 lotr.structure.DwarvenTower.name=Torre de Enanos
@@ -1718,6 +1834,7 @@ lotr.structure.BeaconTower.name=Torre del Faro de Gondor
 lotr.structure.GondorFortress.name=Fortaleza de Gondor
 lotr.structure.GondorSmithy.name=Herrería de Gondor
 lotr.structure.GondorTurret.name=Torre de Gondor
+lotr.structure.IthilienHideout.name=
 
 lotr.structure.RuinedBeaconTower.name=Torre del Faro de Gondor en Ruinas
 lotr.structure.RuinedGondorTower.name=Torre de Vigilancia de Gondor en Ruinas
@@ -1744,6 +1861,9 @@ lotr.structure.NearHaradTent.name=Tienda de Harad Cercano
 lotr.structure.NearHaradBazaar.name=Mercado de Harad Cercano
 lotr.structure.HaradPyramid.name=Piramide de Harad Cercano
 
+lotr.structure.HalfTrollHouse.name=
+lotr.structure.HalfTrollWarlordHouse.name=
+
 chat.lotr.update=¡%s Actualización disponible! (%s)
 chat.lotr.achievement=%s acaba de obtener el logro de La Tierra Media %s
 chat.lotr.insufficientAlignment=Se necesita al menos %s de alineación con %s para realizar esta acción
@@ -1762,6 +1882,7 @@ chat.lotr.protectedLandBanner=Usted no puede colocar un estandarte de protecció
 chat.lotr.banditSteal=¡Un bandido ha robado algunos articulos de tu inventario!
 chat.lotr.invasion.start=¡%s ha puesto en marcha una invasión cerca!
 chat.lotr.tameGollum=%s ha domesticado a %s
+chat.lotr.ftDisabled=
 
 commands.lotr.alignment.usage=/alignment <set|add> <facción> <cantidad> [jugador]
 commands.lotr.alignment.noFaction=No existe una facción llamada "%s"
@@ -1781,6 +1902,10 @@ commands.lotr.banStructures.ban=La generación de estructuras ha sido desactivad
 commands.lotr.banStructures.banPlayer=Prohibir a %s generar estructuras
 commands.lotr.fastTravelCooldown.usage=/fastTravelCooldown <ticks>
 commands.lotr.fastTravelCooldown.set=Ajustar el tiempo de reutilización de viaje rapido a %d (%s)
+commands.lotr.lotrDate.usage=
+commands.lotr.lotrDate.get=
+commands.lotr.lotrDate.set=
+commands.lotr.lotrDate.outOfBounds=
 
 death.attack.lotr.frost=%1$s sucumbió al Frío
 
@@ -1899,10 +2024,10 @@ lotr.achievement.killThievingBandit.title=Lección inolvidable!
 lotr.achievement.killThievingBandit.desc=Acabar con un bandido que te robó
 lotr.achievement.hundreds.title=¡Cientos Morirán!
 lotr.achievement.hundreds.desc=Miles...
-lotr.achievement.turnDownForWhat.title=¿Inclinarse Ante Que?
-lotr.achievement.turnDownForWhat.desc=¡Ante nada!
 lotr.achievement.bannerProtect.title=
 lotr.achievement.bannerProtect.desc=
+lotr.achievement.catchButterfly.title=
+lotr.achievement.catchButterfly.desc=
 
 lotr.achievement.killHobbit.title=Homicida de Hobbits
 lotr.achievement.killHobbit.desc=Matar a un Hobbot
@@ -2071,6 +2196,8 @@ lotr.achievement.alignmentGood1000_ANGMAR.title=Azote de Angmar
 lotr.achievement.alignmentGood1000_ANGMAR.desc=Alcanzar +10 de alineación con los Orcos de Angmar
 lotr.achievement.doMiniquestAngmar.title=
 lotr.achievement.doMiniquestAngmar.desc=
+lotr.achievement.tradeAngmarTrader.title=
+lotr.achievement.tradeAngmarTrader.desc=
 
 lotr.achievement.enterEregion.title=Descolorido Esplendor
 lotr.achievement.enterEregion.desc=Entrar en la tierra de Eregion
@@ -2151,6 +2278,8 @@ lotr.achievement.doMiniquestWoodElf.title=
 lotr.achievement.doMiniquestWoodElf.desc=
 lotr.achievement.doMiniquestDolGuldur.title=
 lotr.achievement.doMiniquestDolGuldur.desc=
+lotr.achievement.tradeDolGuldurTrader.title=
+lotr.achievement.tradeDolGuldurTrader.desc=
 
 lotr.achievement.killDwarf.title=Asesino de Enanos
 lotr.achievement.killDwarf.desc=Matar a un Enano
@@ -2339,6 +2468,8 @@ lotr.achievement.enterLebennin.title=Tierra de Cinco Arroyos
 lotr.achievement.enterLebennin.desc=Entrar en la provincia de Lebennin
 lotr.achievement.doMiniquestGondor.title=
 lotr.achievement.doMiniquestGondor.desc=
+lotr.achievement.tradeRangerIthilienCaptain.title=
+lotr.achievement.tradeRangerIthilienCaptain.desc=
 
 lotr.achievement.mineRemains.title=¿Vale la pena el Riesgo?
 lotr.achievement.mineRemains.desc=Desenterrar un bloque de restos
@@ -2436,14 +2567,24 @@ lotr.achievement.drinkMangoJuice.title=Frutas de la Jungla
 lotr.achievement.drinkMangoJuice.desc=Beber un jarro de Jugo de mango
 lotr.achievement.pickBanana.title=Colgando Alrededor
 lotr.achievement.pickBanana.desc=Sacar una banana de un arbol
-lotr.achievement.alignmentGood10_FAR_HARAD.title=Pariente del Harad Lejano
-lotr.achievement.alignmentGood10_FAR_HARAD.desc=Alcanzar +10 de alineación con los Haradrim Lejanos
-lotr.achievement.alignmentGood100_FAR_HARAD.title=Guerrero del Harad Lejano
-lotr.achievement.alignmentGood100_FAR_HARAD.desc=Alcanzar +100 de alineación con los Haradrim Lejanos
-lotr.achievement.alignmentGood1000_FAR_HARAD.title=Heroe del Harad Lejano
-lotr.achievement.alignmentGood1000_FAR_HARAD.desc=Alcanzar +1000 de alineación con los Haradrim Lejanos
+lotr.achievement.alignmentGood10_MOREDAIN.title=
+lotr.achievement.alignmentGood10_MOREDAIN.desc=
+lotr.achievement.alignmentGood100_MOREDAIN.title=
+lotr.achievement.alignmentGood100_MOREDAIN.desc=
+lotr.achievement.alignmentGood1000_MOREDAIN.title=
+lotr.achievement.alignmentGood1000_MOREDAIN.desc=
 lotr.achievement.growBaobab.title=
 lotr.achievement.growBaobab.desc=
+lotr.achievement.enterFarHaradVolcano.title=
+lotr.achievement.enterFarHaradVolcano.desc=
+lotr.achievement.alignmentGood10_TAUREDAIN.title=
+lotr.achievement.alignmentGood10_TAUREDAIN.desc=
+lotr.achievement.alignmentGood100_TAUREDAIN.title=
+lotr.achievement.alignmentGood100_TAUREDAIN.desc=
+lotr.achievement.alignmentGood1000_TAUREDAIN.title=
+lotr.achievement.alignmentGood1000_TAUREDAIN.desc=
+lotr.achievement.killMoredain.title=
+lotr.achievement.killMoredain.desc=
 
 lotr.achievement.enterPertorogwaith.title=Cosas Monstruosas
 lotr.achievement.enterPertorogwaith.desc=Entrar en la tierra de Pertorogwaith
@@ -2453,6 +2594,18 @@ lotr.achievement.alignmentGood100_HALF_TROLL.title=Guerrero de los Medios Trolls
 lotr.achievement.alignmentGood100_HALF_TROLL.desc=Alcanzar +100 de alineación con los Medios trolls
 lotr.achievement.alignmentGood1000_HALF_TROLL.title=Azote de los Medios Trolls
 lotr.achievement.alignmentGood1000_HALF_TROLL.desc=Alcanzar +1000 de alineación con los Medios trolls
+lotr.achievement.killHalfTroll.title=
+lotr.achievement.killHalfTroll.desc=
+lotr.achievement.wearFullHalfTroll.title=
+lotr.achievement.wearFullHalfTroll.desc=
+lotr.achievement.tradeHalfTrollWarlord.title=
+lotr.achievement.tradeHalfTrollWarlord.desc=
+lotr.achievement.useHalfTrollTable.title=
+lotr.achievement.useHalfTrollTable.desc=
+lotr.achievement.doMiniquestHalfTroll.title=
+lotr.achievement.doMiniquestHalfTroll.desc=
+lotr.achievement.tradeHalfTrollScavenger.title=
+lotr.achievement.tradeHalfTrollScavenger.desc=
 
 lotr.achievement.enterRhun.title=Hacia el Este
 lotr.achievement.enterRhun.desc=Entrar en la región de Rhûn
@@ -2492,7 +2645,7 @@ lotr.waypoint.SARN_FORD=Vado de Sarn
 lotr.waypoint.LONGBOTTOM=
 lotr.waypoint.MICHEL_DELVING=
 lotr.waypoint.WILLOWBOTTOM=
-lotr.waypoint.BRANDY_HALL=
+lotr.waypoint.BUCKLEBURY=
 lotr.waypoint.WHITFURROWS=
 lotr.waypoint.FROGMORTON=
 lotr.waypoint.OATBARTON=
@@ -2503,6 +2656,9 @@ lotr.waypoint.WAYMEET=
 lotr.waypoint.TUCKBOROUGH=
 lotr.waypoint.NOBOTTLE=
 lotr.waypoint.TIGHFIELD=
+lotr.waypoint.BROCKENBORINGS=
+lotr.waypoint.DEEPHOLLOW=
+lotr.waypoint.STOCK=
 
 lotr.waypoint.WITHYWINDLE_VALLEY=Valle del Tornasauce
 
@@ -2523,6 +2679,8 @@ lotr.waypoint.THARBAD=Tharbad
 lotr.waypoint.FORNOST=Fornost
 lotr.waypoint.ANNUMINAS=Annúminas
 lotr.waypoint.TOWER_HILLS=Colinas de la Torre
+lotr.waypoint.GREENWAY_CROSSROADS=
+lotr.waypoint.BRANDY_HILLS=
 
 lotr.waypoint.BREE=Bree
 lotr.waypoint.CHETWOOD=Bosque de Chet
@@ -2546,6 +2704,7 @@ lotr.waypoint.SOUTH_DUNLAND=Tierras Brunas del Sur
 lotr.waypoint.LOND_DAER=Lond Daer
 lotr.waypoint.DRUWAITH_IAUR=Drúwaith Iaur
 lotr.waypoint.ISENGARD=Isengard
+lotr.waypoint.ENEDWAITH_ROAD=
 
 lotr.waypoint.CAPE_OF_FOROCHEL=Bahía de Hielo de Forochel
 lotr.waypoint.SOUTH_FOROCHEL=Forochel Sur
@@ -2579,9 +2738,12 @@ lotr.waypoint.THRANDUIL_HALLS=
 lotr.waypoint.DOL_GULDUR=Dol Guldur
 lotr.waypoint.MIRKWOOD_MOUNTAINS=Montañas del Bosque Negro
 lotr.waypoint.RHOSGOBEL=
+lotr.waypoint.ENCHANTED_RIVER=
 
 lotr.waypoint.EREBOR=Erebor
+lotr.waypoint.DALE=
 lotr.waypoint.LONG_LAKE=Lago Largo
+lotr.waypoint.RIVER_GATE=
 lotr.waypoint.EAST_BIGHT=Claro del Este
 lotr.waypoint.EMYN_RHUNEN=Emyn Rhúnen
 
@@ -2598,6 +2760,7 @@ lotr.waypoint.TREEBEARD_HILL=
 lotr.waypoint.WOLD=El Páramo
 lotr.waypoint.EDORAS=Edoras
 lotr.waypoint.HELMS_DEEP=El Abismo de Helm
+lotr.waypoint.HELMS_CROSSROADS=
 lotr.waypoint.URUK_HIGHLANDS=Tierras Altas de los Uruk hai
 lotr.waypoint.FORDS_OF_ISEN=Vados de Isen
 lotr.waypoint.MERING_STREAM=Corriente de Mering
@@ -2633,6 +2796,8 @@ lotr.waypoint.HENNETH_ANNUN=
 lotr.waypoint.LINHIR=
 lotr.waypoint.ELENDIL=
 lotr.waypoint.TARNOST=
+lotr.waypoint.CROSSROADS_ITHILIEN=
+lotr.waypoint.NORTH_ITHILIEN=
 
 lotr.waypoint.TOLFALAS_ISLAND=Tolfalas
 
@@ -2668,10 +2833,15 @@ lotr.waypoint.CROSSINGS_OF_POROS=Cruces del Poros
 lotr.waypoint.CROSSINGS_OF_HARAD=Cruces de Haradwaith
 
 lotr.waypoint.GULF_OF_HARAD=Golfo de Harad
-lotr.waypoint.ISLAND_THREE_RIVERS=Tol Neleduin
+lotr.waypoint.CEDAR_ROAD=
 lotr.waypoint.FERTILE_VALLEY=Valle Fertil
+lotr.waypoint.HARAD_CROSSROADS=
+lotr.waypoint.GARDENS_BERUTHIEL=
+lotr.waypoint.AIN_AL_HARAD=
 
-lotr.waypoint.UMBAR_WAYPOINT=Umbar
+lotr.waypoint.UMBAR_CITY=
+lotr.waypoint.UMBAR_GATE=
+lotr.waypoint.UMBAR_ROAD=
 
 lotr.waypoint.MOUNT_SAND=Monte Astras
 lotr.waypoint.MOUNT_GREEN=Monte Laegras
