@@ -1,6 +1,6 @@
 {
-  "name": "TolkienCraft Package SNAPSHOT", 
-  "title": "TolkienCraft SNAPSHOT",
+  "name": "TolkienCraft Package", 
+  "title": "TolkienCraft",
   "gameVersion": "1.7.10",
   "launch": {
     "flags": []
