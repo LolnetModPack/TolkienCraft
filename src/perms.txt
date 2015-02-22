@@ -12,6 +12,7 @@ This is a private pack
 (Open:Spreadsheet) Ars Magica 2 by Mithion can be found at http://www.minecraftforum.net/topic/2028696-ars-magica-2-164-version-112b-updated-jan-27/.
 (Open:Spreadsheet) Artifice by Shukaro can be found at http://www.minecraftforum.net/topic/1860869-.
 (Open:Spreadsheet) AsieLib by asie can be found at http://mc.shinonome.ch/doku.php?id=wiki:asielib.
+(Unknown:Custom) Aura Cascade by Pixlepix can be found at http://minecraft.curseforge.com/mc-mods/227099-aura-cascade. The license is, . No permission has been listed.
 (Open:Spreadsheet) Backpacks by Eydamos can be found at http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-12629/.
 (Open:Spreadsheet) Baubles by Azanor can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-5-updated-20-8-2014.
 (Open:Spreadsheet) Bdlib by bdew can be found at http://www.curse.com/mc-mods/minecraft/bdlib.
@@ -45,6 +46,7 @@ This is a private pack
 (Open:Spreadsheet) EnderStorage by Chickenbones can be found at http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/.
 (Open:Spreadsheet) Extra Cells by Leonelf can be found at http://www.minecraftforum.net/topic/1801643-ae-add-onm3gas-extracells-v-167d-smp-ssp/.
 (Open:Spreadsheet) Extra Utilities by RWTema can be found at http://www.minecraftforum.net/topic/1776056-164forge-extra-utilities-v102/.
+(Unknown:Custom) FastCraft by Player can be found at http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/fastcraft.png. Permission has been obtained from the author, http://i.imgur.com/GrqBhef.png.
 (Open:Spreadsheet) Forestry by SirSengir can be found at http://forestry.sengir.net/wiki.new/doku.php.
 (Open:Spreadsheet) Forge Multipart by Chickenbones can be found at http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/.
 (Open:Spreadsheet) Gendustry by bdew can be found at http://bdew.net/gendustry/.
@@ -98,6 +100,7 @@ This is a private pack
 (Open:Spreadsheet) SlimeVoid Library by Eurymachus can be found at https://github.com/SlimeVoid/SlimevoidLibrary.
 (Open:Spreadsheet) Statues by AUTOMATIC_MAIDEN can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292646-statues.
 (Open:Spreadsheet) Storage Drawers by jaquadro can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-updated-sep-01-14.
+(Unknown:Custom) TC Node Tracker by Dyonovan can be found at http://minecraft.curseforge.com/mc-mods/227328-thaumcraft-node-tracker. The license is, . No permission has been listed.
 (Open:Spreadsheet) Thaumcraft by Azanor can be found at http://www.minecraftforum.net/topic/2011841-thaumcraft-405b-updated-24112013/.
 (Notify:Custom) Thaumcraft NEI Plugin by DjGiannuzz can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2237271-1-6-4-1-7-10-thaumcraft-nei-plugin-nei. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/thaumcraftneiplugin.png. The author has been notified, http://i.imgur.com/TYRmAok.png.
 (Open:Spreadsheet) Thaumic Energistics by Nividica can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2150151-1-7-10-tc4-ae2-thaumic-energistics.
