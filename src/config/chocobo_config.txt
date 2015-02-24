@@ -23,7 +23,7 @@ gysahlGreenMutationRate = 100
 gysahlLoverlyMutationRate = 100
 
 // value between 1 and 999, with 1 for very few wild gysahl and 999 very many.
-gysahlGreenWorldGenerationRate = 160
+gysahlGreenWorldGenerationRate = 80
 
 // Cool down phase between breeding
 breedingDelayFemale = 9000

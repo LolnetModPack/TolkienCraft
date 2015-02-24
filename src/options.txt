@@ -85,7 +85,6 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_Zoom:201
 key_Menu:49
 key_Map Teleport:83
 key_Fast Travel:47
@@ -97,10 +96,12 @@ key_Quest Log:38
 key_Minions Menu:50
 key_Clear path:39
 key_Show/Hide crumbs:77
+key_key.portaitreposition:52
 key_Baubles Inventory:72
 key_Change Wand Focus:33
 key_Activate Hover Harness:35
 key_Misc Wand Toggle:34
+key_key.ping:24
 key_Show force-loaded chunks:67
 key_key.placeItem:25
 key_key.toolConfig:46
@@ -118,6 +119,7 @@ key_key.tbelt:23
 key_key.tzoom:37
 key_ttmisc.toggleArmor:22
 key_invtweaks.key.sort:19
+key_key.aspectMenu:23
 key_key.craftingGrid:0
 key_TG.keybind.openInv:71
 key_TG.keybind.activeaAbilities:81
@@ -138,9 +140,8 @@ key_key.journeymap.day:13
 key_key.journeymap.night:12
 key_key.journeymap.minimap_preset:40
 key_key.journeymap.create_waypoint:43
-key_key.portaitreposition:52
-soundCategory_master:0.0
-soundCategory_music:0.30985916
+soundCategory_master:0.3410596
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
