@@ -120,6 +120,7 @@ key_key.tzoom:37
 key_ttmisc.toggleArmor:22
 key_invtweaks.key.sort:19
 key_key.aspectMenu:23
+key_Camping Inventory Key:34
 key_key.craftingGrid:0
 key_TG.keybind.openInv:71
 key_TG.keybind.activeaAbilities:81
@@ -128,11 +129,11 @@ key_key.SpellBookNext:181
 key_key.SpellBookPrev:55
 key_key.AuraCustomization:21
 key_key.ToggleManaDisplay:24
-key_key.control:157
 key_railcraft.keybind.loco.faster:0
 key_railcraft.keybind.loco.slower:51
 key_railcraft.keybind.loco.mode:76
 key_railcraft.keybind.loco.whistle:199
+key_key.control:157
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:78
 key_key.journeymap.zoom_out:74

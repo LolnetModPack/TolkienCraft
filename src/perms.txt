@@ -30,9 +30,9 @@ This is a private pack
 (Open:Spreadsheet) CodeChickenCore by Chickenbones can be found at http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/.
 (Open:Spreadsheet) CodeChickenLib by Chickenbones can be found at https://github.com/Chicken-Bones/CodeChickenLib.
 (Open:Spreadsheet) CoFH Core by CoFH team can be found at http://teamcofh.com/.
-(Unknown:Custom) CoFHLib by Team CoFH can be found at http://teamcofh.com. The license is, . No permission has been listed.
 (Unknown:Custom) Cosmetic Armor by dmillerw can be found at http://minecraft.curseforge.com/mc-mods/225812-cosmetic-armor. The license is, . No permission has been listed.
 (Open:Spreadsheet) Craft Heraldry by Vazkii can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289645-craftheraldry-coats-of-arms-in-minecraft-over-800.
+(Unknown:Custom) Crafting Manager by CreativeMD can be found at http://minecraft.curseforge.com/mc-mods/224126-craftingmanager. The license is, . Permission has been obtained from the author, http://i.imgur.com/oDmCPbP.png.
 (Unknown:Custom) Custom Main Menu by Lumien can be found at http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu. The license is, . Permission has been obtained from the author, http://i.imgur.com/5desm1R.png.
 (Open:Spreadsheet) Custom NPCs by Noppes can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278956-custom-npcs.
 (Open:Spreadsheet) DamageIndicators by rich1051414 can be found at http://www.minecraftforum.net/topic/1536685-172164forge-hit-splat-damage-indicators-v305-rpg-ui-and-damage-amount-mod/.
@@ -107,6 +107,7 @@ This is a private pack
 (Open:Spreadsheet) Thaumic Exploration by Flaxbeard, nekosune can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445786-1-6-4-1-7-10-thaumic-exploration-0-6-0-thaumcraft.
 (Open:Spreadsheet) Thaumic Tinkerer by pixlepix, nekosune, vazkii can be found at http://www.minecraftforum.net/topic/1813058-thaumic-tinkerer-thaumcraft-addon-evolve-knowledge/.
 (Open:Spreadsheet) The Camping Mod by __Rikmuld__ can be found at http://www.rikmuld.com/.
+(Unknown:Custom) Thermal Dynamics by Team CoFH can be found at http://teamcofh.com. The license is, . No permission has been listed.
 (Open:Spreadsheet) Thermal Expansion by CoFH team can be found at http://teamcofh.com/.
 (Open:Spreadsheet) Thermal Foundation by TeamCoFH can be found at http://www.curse.com/mc-mods/minecraft/222880-thermal-foundation.
 (Open:Spreadsheet) TiC Tooltips by squeek502 can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool.
@@ -120,4 +121,5 @@ This is a private pack
 (Open:Spreadsheet) Wawla by Darkhax can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2169830-wawla-what-are-we-looking-at.
 (Open:Spreadsheet) Wireless Redstone CBE by Chickenbones can be found at http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/.
 (Notify:Custom) Witchery by Emoniph can be found at http://www.minecraftforum.net/topic/1992544-164-forge-witchery-0140/. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/witchery.png. The author has been notified, http://i.imgur.com/QcA1PlZ.png.
+(Unknown:Custom) Witching Gadgets by BluSunrize can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2371563-thaumcraft-addon-witching-gadgets. The license is, . No permission has been listed.
 (Open:Spreadsheet) Yampst by bilde2910 can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091766-yampst-ultimate-statistics-tool-for-mod-packs.
