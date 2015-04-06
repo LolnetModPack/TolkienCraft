@@ -60,7 +60,7 @@ This is a private pack
 (Open:Spreadsheet) Inventory Tweaks by Kobata can be found at http://www.minecraftforum.net/topic/1720872-162-inventory-tweaks-156-august-21/.
 (Open:Spreadsheet) IronChests by cpw can be found at http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/.
 (Open:Spreadsheet) JABBA by ProfMobius can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292942-1-7-2-1-6-4-jabba-1-1-3-just-another-better.
-(FTB:Spreadsheet) JourneyMap by techbrew can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348-journeymap-4-0-3-realtime-mapping-in-game-or-in-a. No permission has been listed.
+(Unknown:Custom) JourneyMap by techbrew can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348-journeymap-4-0-3-realtime-mapping-in-game-or-in-a. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/journeymap.png, and can be found http://journeymap.techbrew.net/help/modpacks/. Permission has been obtained from the author, http://i.imgur.com/uzZK2nc.png.
 (Open:Spreadsheet) libsandstone by TrainerGuy22 can be found at https://github.com/EnderWizards/libsandstone.
 (Open:Spreadsheet) Lockdown by Adubbz can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2126669-1-7-x-1-6-4-forge-lockdown.
 (Open:Spreadsheet) LogisticsPipes by davboecki, AartBluestoke, ArtForz, GUIpsp, theZorro266 can be found at http://www.minecraftforum.net/topic/1831791-16xbuildcraft-logistics-pipes/.
@@ -104,6 +104,7 @@ This is a private pack
 (Open:Spreadsheet) Thaumcraft by Azanor can be found at http://www.minecraftforum.net/topic/2011841-thaumcraft-405b-updated-24112013/.
 (Notify:Custom) Thaumcraft NEI Plugin by DjGiannuzz can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2237271-1-6-4-1-7-10-thaumcraft-nei-plugin-nei. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/thaumcraftneiplugin.png. The author has been notified, http://i.imgur.com/TYRmAok.png.
 (Open:Spreadsheet) Thaumic Energistics by Nividica can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2150151-1-7-10-tc4-ae2-thaumic-energistics.
+(Unknown:Custom) Thaumic Expansion by Country_Gamer can be found at http://minecraft.curseforge.com/mc-mods/228696-thaumic-expansion. The license is, . No permission has been listed.
 (Open:Spreadsheet) Thaumic Exploration by Flaxbeard, nekosune can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445786-1-6-4-1-7-10-thaumic-exploration-0-6-0-thaumcraft.
 (Open:Spreadsheet) Thaumic Tinkerer by pixlepix, nekosune, vazkii can be found at http://www.minecraftforum.net/topic/1813058-thaumic-tinkerer-thaumcraft-addon-evolve-knowledge/.
 (Open:Spreadsheet) The Camping Mod by __Rikmuld__ can be found at http://www.rikmuld.com/.
