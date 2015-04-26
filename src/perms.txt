@@ -16,6 +16,7 @@ This is a private pack
 (Open:Spreadsheet) Backpacks by Eydamos can be found at http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-12629/.
 (Open:Spreadsheet) Baubles by Azanor can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-5-updated-20-8-2014.
 (Open:Spreadsheet) Bdlib by bdew can be found at http://www.curse.com/mc-mods/minecraft/bdlib.
+(Unknown:Custom) Better Loading Screen by AlexIIL can be found at http://minecraft.curseforge.com/mc-mods/229302-better-loading-screen. The license is, . No permission has been listed.
 (Open:Spreadsheet) BiblioCraft by Nuchaz can be found at http://www.bibliocraftmod.com/.
 (Open:Spreadsheet) Binnie's Mods by Binnie can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284348-1-7-10-1-6-4-forestry-binnies-mods-1-8-0-2-0-dev.
 (Open:Spreadsheet) Biomes O' Plenty by TDWP_FTW, Adubbz can be found at http://www.reddit.com/r/biomesoplenty.
@@ -93,6 +94,7 @@ This is a private pack
 (Open:Spreadsheet) Refined Relocation by Dynious can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293062-refined-relocation-1-0-6-solves-your.
 (Open:Spreadsheet) Reliquary by TrainerGuy22, x3n0ph0b3 can be found at https://github.com/TrainerGuy22/Reliquary.
 (Unknown:Custom) Resource Loader by Lumien can be found at http://minecraft.curseforge.com/mc-mods/226447-resource-loader. The license is, . No permission has been listed.
+(Unknown:Custom) Rikmuld's Core by Rikmuld can be found at http://www.rikmuld.com/camping/information. The license is, . No permission has been listed.
 (Open:Spreadsheet) Roguelike Dungeons by Greymerk can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290238-roguelike-dungeons-v1-3-5.
 (Open:Spreadsheet) RPG Advanced Mod by ProfMobius, RazzleberryFox, taelnia, Wulfyk can be found at http://www.curse.com/mc-mods/minecraft/220611-rpg-advanced-mod.
 (Request:Custom) RPG-Hud Mod by KurodaAkira can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289321-1-7-10-1-7-2-rpg-hud-mod-2-5-1. The license is, https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/rpdhudmod.png, and can be found http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289321-1-7-10-1-7-2-rpg-hud-mod-2-5-1?comment=107. Permission has been obtained from the author, http://i.imgur.com/ul0a3cs.png;.
