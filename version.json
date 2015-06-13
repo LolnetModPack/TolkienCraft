@@ -1,6 +1,6 @@
 {
-	"id": "1.7.10-Forge10.13.2.1291",
-	"time": "2015-01-23T00:13:20-0500",
+	"id": "1.7.10-Forge10-10.13.3.1424",
+	"time": "2015-04-25T17:37:54+12:00",
 	"releaseTime": "1960-01-01T00:00:00-0700",
 	"type": "release",
 	"minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} --tweakClass cpw.mods.fml.common.launcher.FMLTweaker",
@@ -8,7 +8,7 @@
 	"assets": "1.7.10",
 	"libraries": [
 		{
-			"name": "net.minecraftforge:forge:1.7.10-10.13.2.1291",
+			"name": "net.minecraftforge:forge:1.7.10-10.13.3.1424-1.7.10",
 			"url": "http://files.minecraftforge.net/maven/"
 		},
 		{
